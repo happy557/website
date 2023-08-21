@@ -1,15 +1,17 @@
-/* .n1{
-    position: fixed;
-} */
-.c{
-    border-right: 1px solid rgb(209, 202, 202);
-}
+
 a{
     color: black;
     text-decoration: none;
 }
 .b{
-    border: 1px solid rgb(201, 192, 192); 
+    border: 1px solid rgb(208, 208, 208); 
+}
+.c{
+    border-right: 1px solid rgb(171, 164, 164);
+}
+.d{
+    padding-top: 100px;
+    border-bottom: 2px solid rgb(129, 77, 25);
 }
 .e{
     border-top: 1px solid rgb(212, 202, 202);
@@ -17,16 +19,7 @@ a{
     border-right: 1px solid rgb(183, 171, 171);
 }
 .f{
-    color: rgb(178, 176, 176);
-}
-.i{
-    border-radius: 50%;
-    width: 50px;
-}
-
-.d{
-    padding-top: 100px;
-    border-bottom: 2px solid rgb(129, 77, 25);
+    color: rgb(17, 17, 17);
 }
 .g{
     border-bottom: 1px solid rgb(209, 203, 203) ;
@@ -34,26 +27,45 @@ a{
 a.h{
     color: black;
 }
+.i{
+    border-radius: 50%;
+    width: 50px;
+}
+
 a.j{
     border-bottom: 1px solid black; 
 }
+.k{
+    width: 10px;
+ }
+ .l{
+    width: 60px;
+}
 .m{
+    font-size: 17px;
     color: rgb(237, 233, 233);
 }
 a.m:hover{
-    color: white;
+    color: rgb(234, 232, 232);
    }
-.k{
-    width: 10px;
- 
-}
-.l{
-    width: 60px;
-}
+
+  
 .n{
     font-size: 10px;
     color: rgb(224, 222, 222);
 }
 .o{
-    font-size:9px ;
+    font-size:14px ;
+}
+.q{width: 40px;
+    padding-right: 20px;
+}
+.q1{width: 40px;
+    padding-right: 20px;
+}
+.q2{width: 40px;
+    padding-right: 20px;
+}
+.q3{width: 40px;
+    padding-right: 20px;
 }
