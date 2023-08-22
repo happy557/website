@@ -1,0 +1,119 @@
+html {
+    scroll-behavior: smooth;
+    }
+    .row1{
+        background-color: rgb(188, 150, 47);
+        border-radius:  0px 0px 15px 0px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        font-size: 12px;
+        }
+    .f1{
+        font-size: 40px;}
+    
+    .s1 :hover{
+        color: rgb(210, 148, 32);
+    }
+    
+    .b1{
+        background-color: rgb(0, 153, 255);
+        border-radius: 40px 40px;
+        border: none;
+        padding: 8px 8px 8px 8px;
+        color: white;
+        font-size: 14px;
+        }
+    
+    .t1{
+        color: black;
+    }
+    .f2 img{ 
+        width: 100%;
+        border-radius: 35px 0px 35px 0px;
+        }
+    .f3 img{
+        width: 100%;
+        border-radius: 15px 15px 15px 15px;
+        }
+    
+    .title1{
+        color:rgb(183, 103, 32);
+        font-size: 30px; 
+        }
+        
+    .cont2{
+        font-size: 15px;
+        padding-bottom: 5px; 
+        padding-top: 5px;
+        color: rgb(93, 92, 92);
+        }
+    .bgimg{
+        background-image: url('../test/images/bg2.jpg');
+        background-size:cover;
+        background-repeat: no-repeat;
+        border-radius:  35px 0px 0px 0px;
+        padding: 60px 0px;
+    }
+    
+    .title2{
+        color:rgb(175, 107, 48);
+        font-size: 50px; 
+        }
+    .c1 {
+        position: relative;
+        text-align: left;
+        color: white;
+        }
+    .formalign{
+        text-align: center;
+        font-weight: bolder;
+        color: rgb(23, 14, 3);
+        background-color: rgba(202, 209, 215, 0.471);
+        border-radius: 15px;
+        padding: 20px 0px 20px 0px;
+        margin: 70px 0px 70px 110px;
+        }
+    .f6{
+        font-weight: bold;
+        font-size: 25px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        }
+    .f7 img{
+        width: 100%;
+        border-radius: 15px;
+        margin-bottom: 20px;
+        }
+    .f8{
+        background-color:rgb(39, 39, 39);
+        color: rgb(131, 121, 121);
+        margin-right: 0%;
+    }
+    .f8a{
+        font-size: 40px;
+    }
+    .b8{
+        border-bottom: solid rgb(48, 48, 48);
+    }
+    .ex1:hover{
+        color:rgb(169, 103, 45)
+    }
+    .cl1{
+        color: white;
+    }
+    .row10{
+        background-color:rgb(61, 60, 60);
+        border-top: solid rgb(66, 66, 66);
+        color: rgb(121, 117, 117);
+        text-align: center;
+    }
+    .f4{
+        padding-top: 25px;
+        padding-bottom: 25px;
+        font-size: 18px;
+    }
+
+    .align{
+        background-color: rgba(202, 209, 215, 0.471);
+        text-align: center;
+    }
