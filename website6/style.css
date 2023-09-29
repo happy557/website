@@ -1,4 +1,7 @@
 .bg1{background-image: url(../website6/images/bg.jpg);}
-.a1{background-color: aqua;}
+.a1{background-color: aqua}
 .a2{width: 20px;}
-.b{background-color: rgb(136, 212, 231);}
+a.one{color: black;
+font-size: 16px;}
+.two{margin-left: 400px;}
+.two{text-decoration: none;}
