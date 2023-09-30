@@ -1,7 +1,14 @@
-.bg1{background-image: url(../website6/images/bg.jpg);}
-.a1{background-color: aqua}
+.a1{background-color: rgb(5,173,238); }
 .a2{width: 20px;}
-a.one{color: black;
-font-size: 16px;}
-.two{margin-left: 400px;}
-.two{text-decoration: none;}
+a.one{color: rgb(61,59,59);}
+.a3{background-image: url(../website6/images/landscape-morning-fog-mountains-with-hot-air-balloons-sunrise_335224-794.avif);
+background-size: cover;
+background-repeat: no-repeat;
+height: 600px;}
+.a4{color: white;
+font-size: 50px;
+text-align: center;
+padding-top: 150px;}
+.a5{color:black;
+font-size: 50px;
+text-align: center;}
